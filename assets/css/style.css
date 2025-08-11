@@ -19,23 +19,21 @@
     --footer-text: #6E6E6E;
     --badge-bg: #fff;
 
-    /* Layout widths */
     --container-width: 1240px;
     
-    /* Spacing */
-    --space-xs: 0.5rem;      /* 8px */
-    --space-sm: 0.75rem;     /* 12px */
-    --space-md: 1rem;        /* 16px */
-    --space-lg: 1.5rem;      /* 24px */
-    --space-xl: 2rem;        /* 32px */
-    --space-xxl: 3rem;       /* 48px */
+   
+    --space-xs: 0.5rem;     
+    --space-sm: 0.75rem;    
+    --space-md: 1rem;       
+    --space-lg: 1.5rem;     
+    --space-xl: 2rem;       
+    --space-xxl: 3rem;      
 
-    /* Border radius */
+
     --radius-pill: 50px;
     --radius-md: 8px;
     --radius-lg: 20px;
 
-    /* Font sizes */
     --font-xs: 0.8rem;
     --font-sm: 0.85rem;
     --font-md: 0.95rem;
